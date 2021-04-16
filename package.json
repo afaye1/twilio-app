@@ -1,0 +1,30 @@
+{
+  "name": "twilio-app",
+  "version": "1.0.0",
+  "description": "make and receive calls demo by Mikinos",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afaye1/twilio-app-mikinos-demo.git"
+  },
+  "keywords": [
+    "twilio",
+    "voip",
+    "api",
+    "calling",
+    "receiving",
+    "calls",
+    "phone",
+    "number",
+    "mikinos"
+  ],
+  "author": "Mikinos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/afaye1/twilio-app-mikinos-demo/issues"
+  },
+  "homepage": "https://github.com/afaye1/twilio-app-mikinos-demo#readme"
+}
